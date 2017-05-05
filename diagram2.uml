@@ -4,7 +4,3 @@ This file is used by the TestProxy unit test. It contains 2 diagrams description
 !pragma revision 3
 Bob -> Alice : hello1
 @enduml
-
-@startuml
-version 1
-@enduml
