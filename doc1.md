@@ -10,7 +10,4 @@ __This will also be bold__
 
 _You **can** combine them_
 
-@startuml
-!include List.iuml
-List <|.. ArrayList
-@enduml
+!includeurl https://raw.githubusercontent.com/linux-china/plantuml-gist/master/src/main/uml/plantuml_gist.puml
