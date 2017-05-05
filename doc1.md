@@ -10,4 +10,4 @@ __This will also be bold__
 
 _You **can** combine them_
 
-
+![alternative text](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/KITSIlyaMiflig/Markdown-test/master/diagram1.uml)
