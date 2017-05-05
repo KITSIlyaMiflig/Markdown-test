@@ -14,4 +14,4 @@ _You **can** combine them_
 
 ![alternative text](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/KITSIlyaMiflig/Markdown-test/master/diagram1.uml)
 
-![alternative text](http://www.plantuml.com/plantuml/proxy?src=http://uml.mvnsearch.org/github/KITSIlyaMiflig/Markdown-test/master/diagram2.uml)
+![alternative text](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/KITSIlyaMiflig/Markdown-test/master/diagram2.uml)
