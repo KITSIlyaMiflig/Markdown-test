@@ -1,4 +1,4 @@
 @startuml
-!pragma revision 5
-Bob -> Alice : hello5
+!pragma revision 6
+Bob -> Alice : hello6
 @enduml
