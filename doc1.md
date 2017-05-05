@@ -12,7 +12,7 @@ _You **can** combine them_
 
 123
 
-![alternative text](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/KITSIlyaMiflig/Markdown-test/master/diagram1.umlt=1)
+![alternative text](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/KITSIlyaMiflig/Markdown-test/master/diagram1.uml?t=1)
 
 ![includeurl](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/KITSIlyaMiflig/Markdown-test/master/diagram2.uml?ttt=4)
 
