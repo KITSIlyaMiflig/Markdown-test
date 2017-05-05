@@ -1,6 +1,6 @@
 This file is used by the TestProxy unit test. It contains 2 diagrams description.
 
 @startuml
-!pragma revision 3
-Bob -> Alice : hello1
+!pragma revision 4
+Bob -> Alice : hello2
 @enduml
