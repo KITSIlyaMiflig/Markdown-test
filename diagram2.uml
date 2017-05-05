@@ -1,4 +1,4 @@
 @startuml
-!pragma revision 6
+!pragma revision 89
 Bob -> Alice : hello6
 @enduml
