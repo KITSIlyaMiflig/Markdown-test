@@ -1,7 +1,8 @@
 @startuml
+!pragma revision 1
 Alice -> Bob: Authentication Request1
 Bob --> Alice: Authentication Response1
 
-Alice -> Bob: Another authentication Request2
-Alice <-- Bob: another authentication Response2
+Alice -> Bob: Another authentication Request3
+Alice <-- Bob: another authentication Response3
 @enduml
