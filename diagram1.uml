@@ -1,7 +1,9 @@
-@startuml
-Alice -> Bob: Authentication Request
-Bob --> Alice: Authentication Response
+This file is used by the TestProxy unit test. It contains 2 diagrams description.
 
-Alice -> Bob: Another authentication Request
-Alice <-- Bob: another authentication Response
+@startuml
+Bob -> Alice : hello
+@enduml
+
+@startuml
+version
 @enduml
