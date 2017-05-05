@@ -10,6 +10,4 @@ __This will also be bold__
 
 _You **can** combine them_
 
-!includeurl https://raw.github.com/plantuml/plantuml-server/master/src/main/webapp/resource/test2diagrams.txt
-
-![alternative text](http://www.plantuml.com/plantuml/proxy?src=https://raw.github.com/plantuml/plantuml-server/master/src/main/webapp/resource/test2diagrams.txt)
+![alternative text](https://raw.githubusercontent.com/KITSIlyaMiflig/Markdown-test/master/List.iuml)
