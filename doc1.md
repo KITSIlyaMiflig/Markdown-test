@@ -16,4 +16,4 @@ _You **can** combine them_
 
 ![includeurl](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/KITSIlyaMiflig/Markdown-test/master/diagram2.uml?ttt=5)
 
-![PlantUML model](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/KITSIlyaMiflig/Markdown-test/master/diagram2.uml?time=5)
+![PlantUML model](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/KITSIlyaMiflig/Markdown-test/master/diagram2.uml?time=6)
