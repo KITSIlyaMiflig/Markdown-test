@@ -5,5 +5,5 @@ Bob -> Alice : hello12345
 @enduml
 
 @startuml
-version
+version 123
 @enduml
